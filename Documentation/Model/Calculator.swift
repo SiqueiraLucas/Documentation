@@ -24,18 +24,6 @@ class Calculator {
         return element1 + element2
     }
     
-    //MARK: - Sum2
-    /**
-    Método que soma dois números
-    - Parameters:
-        - element1: Número a ser somado com outro
-        - element2: Número a ser somado com outro
-    - returns: Resultado da soma dos dois números
-    */
-    func sum2(element1: Int, element2: Int) -> Int{
-        return element1 + element2
-    }
-    
     //MARK: - Subtract
     /**
      Método que subtrai um número
